@@ -4,9 +4,8 @@
 # @Comments: 
 # @Software: PyCharm
 
-from d2l import torch as d2l
-from d2l.torch import Animator, Accumulator, accuracy
 import torch
+from d2l.torch import Animator, Accumulator, accuracy
 
 
 def evaluate_accuracy(net, data_iter):

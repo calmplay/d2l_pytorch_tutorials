@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" autoUpload="Always" serverName="cy@10.15.150.121:22 password (4)" remoteFilesAllowedToDisappearOnAutoupload="false" confirmBeforeUploading="false" showDifferentInSync="false">
+  <component name="PublishConfigData" autoUpload="Always" serverName="cy@10.15.150.121:22 password (2)" remoteFilesAllowedToDisappearOnAutoupload="false" confirmBeforeUploading="false" showDifferentInSync="false">
     <option name="confirmBeforeUploading" value="false" />
     <serverData>
-      <paths name="cy@10.15.150.121:22 password (3)">
+      <paths name="cy@10.15.150.121:22 password">
         <serverdata>
           <mappings>
-            <mapping deploy="/home/cy/workdir/d2l_pytorch_tutorials" local="$PROJECT_DIR$" />
+            <mapping deploy="/home/cy/workdir/d2l_pytorch_tutorials" local="$PROJECT_DIR$" web="/" />
           </mappings>
         </serverdata>
       </paths>
-      <paths name="cy@10.15.150.121:22 password (4)">
+      <paths name="cy@10.15.150.121:22 password (2)">
         <serverdata>
           <mappings>
             <mapping deploy="/home/cy/workdir/d2l_pytorch_tutorials" local="$PROJECT_DIR$" />
